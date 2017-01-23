@@ -53,30 +53,6 @@
     <!-- Android -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#333333">
-    <style>
-      text {
-        font: 10px sans-serif;
-        color: white;
-      }
-      text.value {
-        font-size: 120%;
-        fill: white;
-      }
-
-      .axisHorizontal path{
-        fill: none;
-      }
-
-      .axisHorizontal .tick line {
-        stroke-width: 1;
-        stroke: rgba(0, 0, 0, 0.2);
-      }
-
-      .bar {
-        fill: steelblue;
-        fill-opacity: .9;
-      }
-    </style>
     
   </head>
   <body>
@@ -165,7 +141,7 @@
             <div class="flex-content">
               <p class="text-context text-intro"><strong>PROFESSIONAL</strong></p>
               <p class="text-intro ">MY SKILL SET IN SOFTWARE</p>
-              <div id="chart"></div>
+              <div id="barchart_values" style="width: 400px; height: 300px;"></div>
              <!-- <p>Similar practices exist in other cultures, including the Chinese tradition of penjing from which the art originated, and the miniature living landscapes of Vietnamese hòn non bộ.</p>-->
               <p class="text-symbols">* * *</p>
             </div>
@@ -192,96 +168,36 @@
     
     <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
     <script defer src="static/js/svg-icons.js"></script>
-    <script src="https://d3js.org/d3.v3.min.js"></script>
-<script>
-  $(document).ready(function(){
-    data = [
-      {label:"Category 1", value:19},
-      {label:"Category 2", value:5},
-      {label:"Category 3", value:13},
-      {label:"Category 4", value:17},
-      {label:"Category 5", value:19},
-      {label:"Category 6", value:27}
-    ];
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load("current", {packages:["corechart"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+      ["Element", "Density", { role: "style" } ],
+      ["Copper", 8.94, "#b87333"],
+      ["Silver", 10.49, "silver"],
+      ["Gold", 19.30, "gold"],
+      ["Platinum", 21.45, "color: #e5e4e2"]
+    ]);
 
+    var view = new google.visualization.DataView(data);
+    view.setColumns([0, 1,
+      { calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation" },
+      2]);
 
-    var div = d3.select("#chart").append("div").attr("class", "toolTip");
-
-    var axisMargin = 20,
-            margin = 40,
-            valueMargin = 4,
-            width = parseInt(d3.select('body').style('width'), 10),
-            height = parseInt(d3.select('body').style('height'), 10),
-            barHeight = (height-axisMargin-margin*2)* 0.4/data.length,
-            barPadding = (height-axisMargin-margin*2)*0.6/data.length,
-            data, bar, svg, scale, xAxis, labelWidth = 0;
-
-    max = d3.max(data, function(d) { return d.value; });
-
-    svg = d3.select('#chart')
-            .append("svg")
-            .attr("width", width)
-            .attr("height", height);
-
-
-    bar = svg.selectAll("g")
-            .data(data)
-            .enter()
-            .append("g");
-
-    bar.attr("class", "bar")
-            .attr("cx",0)
-            .attr("transform", function(d, i) {
-              return "translate(" + margin + "," + (i * (barHeight + barPadding) + barPadding) + ")";
-            });
-
-    bar.append("text")
-            .attr("class", "label")
-            .attr("y", barHeight / 2)
-            .attr("dy", ".35em") //vertical align middle
-            .text(function(d){
-              return d.label;
-            }).each(function() {
-              labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
-            });
-
-    scale = d3.scale.linear()
-            .domain([0, max])
-            .range([0, width - margin*2 - labelWidth]);
-
-    xAxis = d3.svg.axis()
-            .scale(scale)
-            .tickSize(-height + 2*margin + axisMargin)
-            .orient("bottom");
-
-    bar.append("rect")
-            .attr("transform", "translate("+labelWidth+", 0)")
-            .attr("height", barHeight)
-            .attr("width", function(d){
-              return scale(d.value);
-            });
-
-    bar.append("text")
-            .attr("class", "value")
-            .attr("y", barHeight / 2)
-            .attr("dx", -valueMargin + labelWidth) //margin right
-            .attr("dy", ".35em") //vertical align middle
-            .attr("text-anchor", "end")
-            .text(function(d){
-              return (d.value+"%");
-            })
-            .attr("x", function(d){
-              var width = this.getBBox().width;
-              return Math.max(width + valueMargin, scale(d.value));
-            });
-    svg.insert("g",":first-child")
-            .attr("class", "axisHorizontal")
-            .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-            .call(xAxis);
-
-  });
-
-
+    var options = {
+      title: "Density of Precious Metals, in g/cm^3",
+      width: 600,
+      height: 400,
+      bar: {groupWidth: "95%"},
+      legend: { position: "none" },
+    };
+    var chart = new google.visualization.BarChart(document.getElementById("barchart_values"));
+    chart.draw(view, options);
 </script>
   </body>
 </html>
