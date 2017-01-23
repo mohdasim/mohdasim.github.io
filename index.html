@@ -183,12 +183,11 @@
     var data = new google.visualization.DataTable();
     data.addColumn('string', 'Language');
     data.addColumn('number', 'Level');
-    data.addColumn('string', { role: 'style' });
     data.addRows([
-      ['Java', 200,'#00d646'],
-      ['Javascript', 300,'#00d646'],
-      ['PHP', 150,'#00d646'],
-      ['Django', 100,'#00d646']
+      ['Java', 200],
+      ['Javascript', 300],
+      ['PHP', 150],
+      ['Django', 100]
     ]);
 
     var options = {
@@ -197,6 +196,7 @@
       backgroundColor: '#123',
       hAxis: {
         title: '',
+        colors:['#00d646'],
         ticks: [{v:0,f:'Zero'},{v:100, f:'Begineer'},{v:150, f:'Basic'},{v:200, f:'Medium'},{v:300, f:'High'}]
       }
     };
