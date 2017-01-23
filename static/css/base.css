@@ -1208,9 +1208,18 @@ header[role=banner]:hover {
 
 @media (max-width: 767px) {
 footer .alignleft, footer .alignright {
-float: none;
+float: left;
 display: block;
  }
+}
+.fb-color{
+  color:#3b5998; !important;
+}
+.twitter-color{
+  color: #0084b4 !important;
+}
+.instagram-color{
+  color:#fb3958 !important;
 }
 
 
