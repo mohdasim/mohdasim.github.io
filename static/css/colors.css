@@ -287,7 +287,7 @@ border-top: 4px solid rgba(0, 0, 0, 0.5);
   background-color: rgba(0, 214, 70, 1);
 }
 .text-context:before,.bg-white .text-context:before{
-  background-color: rgba(0, 20, 80, 0.2);
+  background-color: rgba(0, 214, 70, 1);
 }
 
 /* -- Text shadow  -- */
@@ -823,15 +823,13 @@ input[type="submit"],
 button[type="submit"]:hover,
 input[type="submit"]:hover 
 {
-  border: 1px solid #44d;
+  border: 1px solid rgba(0, 214, 70, 1);
 }
 
 button[type="submit"],
 input[type="submit"],
 .button,.button:hover,button[type="submit"]:hover,input[type="submit"]:hover {
   color: #fff;
-  background-color: #44d;
-  text-shadow: 0 1px 0 #123;
 }
 .button:active,button[type="submit"]:active,input[type="submit"]:active {
 background-color: #17d;
