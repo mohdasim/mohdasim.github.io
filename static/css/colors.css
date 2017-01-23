@@ -281,7 +281,7 @@ border-top: 4px solid rgba(0, 0, 0, 0.5);
 /* -- Context  -- */
 
 [class*="bg-"] .text-context:before {
-  background-color: #fff;
+  background-color: rgba(0, 214, 70, 1);
 }
 .text-context:before,.bg-white .text-context:before{
   background-color: rgba(0, 20, 80, 0.2);
