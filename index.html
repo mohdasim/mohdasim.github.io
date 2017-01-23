@@ -198,8 +198,11 @@
       colors:['#00d646'],
       hAxis: {
         title: '',
-
+        textStyle:{color: '#FFF'},
         ticks: [{v:0,f:'Zero'},{v:100, f:'Begineer'},{v:150, f:'Basic'},{v:200, f:'Medium'},{v:300, f:'High'}]
+      },
+      vAxis:{
+        textStyle:{color: '#FFF'}
       }
     };
     var chart = new google.visualization.BarChart(document.getElementById("barchart_values"));
