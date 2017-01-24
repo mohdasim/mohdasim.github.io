@@ -66,7 +66,7 @@
       
         <section class="bg-black aligncenter">
           <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
-          <span class="background" style="background-image:url('https://mohdasim.github.io/static/images/backdrop.jpg')"></span>
+          <span class="background" style="background-image:url('//mohdasim.in/static/images/backdrop.jpg')"></span>
           <div class="wrap">
             <h1 class="text-landing text-shadow" style="text-align: left;"><strong>I<span class="green-text">'</span>M
             <br/>MOHD<br/>ASIM<br/>SUHAIL<span class="green-text">.</span>
@@ -99,7 +99,7 @@
           </footer>
         </section>
         <section class="bg-black slide-top">
-          <span class="background" style="background-image:url('https://mohdasim.github.io/static/images/slide2.jpg')"></span>
+          <span class="background" style="background-image:url('//mohdasim.in/static/images/slide2.jpg')"></span>
           <div class="wrap" style="color: #fff;">
             <p class="text-context text-intro"><strong>ABOUT ME</strong></p>
             <h4>An Experience of 2.5 years in structuring, developing and implementing interactive
@@ -115,7 +115,7 @@
         <section class="fullscreen bg-black-blue">
           <div class="card-50">
             <figure>
-              <img src="https://mohdasim.github.io/static/images/slide3.jpg" alt="skillset">
+              <img src="//mohdasim.in/static/images/slide3.jpg" alt="skillset">
             </figure>
             <!-- end figure-->
             <div class="flex-content">
@@ -145,39 +145,39 @@
         location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
       }
       google.charts.load('current', {packages: ['corechart', 'bar']});
-  google.charts.setOnLoadCallback(drawMultSeries);
+    google.charts.setOnLoadCallback(drawMultSeries);
 
-  function drawMultSeries() {
-    var data = new google.visualization.DataTable();
-    data.addColumn('string', 'Language');
-    data.addColumn('number', 'Level');
-    data.addRows([
-      ['Java', 200],
-      ['Javascript', 250],
-      ['PHP', 150],
-      ['Django', 100]
-    ]);
+    function drawMultSeries() {
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Language');
+      data.addColumn('number', 'Level');
+      data.addRows([
+        ['Java', 200],
+        ['Javascript', 250],
+        ['PHP', 150],
+        ['Django', 100]
+      ]);
 
-    var options = {
-      title: '',
-      chartArea: {'width': '70%', 'height': '80%'},
-      backgroundColor: '#123',
-      legend: 'none',
-      colors:['#00d646'],
-      enableInteractivity: false,
-
-      hAxis: {
+      var options = {
         title: '',
-        textStyle:{color: '#FFF'},
-        ticks: [{v:0,f:''},{v:100, f:'Beginner'},{v:150, f:'Basic'},{v:200, f:'Medium'},{v:250, f:'High'},{v:300, f:'Master'}]
-      },
-      vAxis:{
-        textStyle:{color: '#FFF'}
-      }
-    };
-    var chart = new google.visualization.BarChart(document.getElementById("barchart_values"));
-    chart.draw(data, options);
-  }
+        chartArea: {'width': '70%', 'height': '80%'},
+        backgroundColor: '#123',
+        legend: 'none',
+        colors:['#00d646'],
+        enableInteractivity: false,
+
+        hAxis: {
+          title: '',
+          textStyle:{color: '#FFF'},
+          ticks: [{v:0,f:''},{v:100, f:'Beginner'},{v:150, f:'Basic'},{v:200, f:'Medium'},{v:250, f:'High'},{v:300, f:'Master'}]
+        },
+        vAxis:{
+          textStyle:{color: '#FFF'}
+        }
+      };
+      var chart = new google.visualization.BarChart(document.getElementById("barchart_values"));
+      chart.draw(data, options);
+    }
 </script>
   </body>
 </html>
