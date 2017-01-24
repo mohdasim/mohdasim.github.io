@@ -16,10 +16,9 @@
 url: https://mohdasim.in
 enforce_ssl: mohdasim.in
 title: Mohd Asim Suhail | Mobile and Web Application developer. And more...
-email: your-email@domain.com
+email: mohd.asim.mnnit@gmail.com
 description: An Experience of 2.5 years in structuring, developing and implementing interactive applications with all stages of the development cycle for dynamic Web and Mobile platform projects. Analytical, adaptive and technically proficient.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mohdasim.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AsimMnnit
 github_username:  mohdasim
 
