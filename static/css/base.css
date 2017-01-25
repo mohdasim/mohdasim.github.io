@@ -3188,7 +3188,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 }
 
 .intro {
-  background: #F45B69;
+  background: rgba(0, 214, 70, 1);
 }
 
 .container {
@@ -3231,7 +3231,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #F45B69;
+  background: rgba(0, 214, 70, 1);
 }
 
 .timeline ul li div::before {
@@ -3250,7 +3250,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #F45B69 transparent transparent;
+  border-color: transparent rgba(0, 214, 70, 1) transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -3260,7 +3260,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li:nth-child(even) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent #F45B69;
+  border-color: transparent transparent transparent rgba(0, 214, 70, 1);
 }
 
 time {
@@ -3279,7 +3279,7 @@ time {
 }
 
 .timeline ul li.in-view::after {
-  background: #F45B69;
+  background: rgba(0, 214, 70, 1);
 }
 
 .timeline ul li div {
@@ -3329,6 +3329,6 @@ time {
   .timeline ul li:nth-child(even) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent #F45B69 transparent transparent;
+    border-color: transparent rgba(0, 214, 70, 1) transparent transparent;
   }
 }
