@@ -3231,7 +3231,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: rgba(0, 214, 70, 1);
 }
 
 .timeline ul li div::before {
