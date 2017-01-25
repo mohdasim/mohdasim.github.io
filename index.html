@@ -163,9 +163,7 @@
       {
         location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
       }
-      $('document').ready(function() {
-
-        'use strict';
+      (function() {
 
         // define variables
         var items = document.querySelectorAll(".timeline li");
@@ -199,7 +197,7 @@
         window.addEventListener("resize", callbackFunc);
         window.addEventListener("scroll", callbackFunc);
 
-      });
+      })();
       google.charts.load('current', {packages: ['corechart', 'bar']});
     google.charts.setOnLoadCallback(drawMultSeries);
 
