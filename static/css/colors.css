@@ -246,6 +246,9 @@ background: linear-gradient(to top, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0) 100%);
 .green-text{
   color:rgba(0, 214, 70, 1);
 }
+.grey-text{
+  color:#e0e0e0;
+}
 
 /*Gray Gradient (horizontal)*/
 .bg-gradient-gray{
