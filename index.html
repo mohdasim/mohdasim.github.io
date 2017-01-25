@@ -155,7 +155,7 @@
       {
         location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
       }
-      (function() {
+      /*(function() {
 
         'use strict';
 
@@ -187,7 +187,7 @@
         window.addEventListener("resize", callbackFunc);
         window.addEventListener("scroll", callbackFunc);
 
-      })();
+      })();*/
       google.charts.load('current', {packages: ['corechart', 'bar']});
     google.charts.setOnLoadCallback(drawMultSeries);
 
