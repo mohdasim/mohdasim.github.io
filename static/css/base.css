@@ -3202,16 +3202,15 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.timeline ul {
+/*.timeline ul {
   background: #456990;
-}
+}*/
 
 .timeline ul li {
   list-style-type: none;
   position: relative;
   width: 6px;
   margin: 0 auto;
-  padding-top: 50px;
   background: #fff;
 }
 
