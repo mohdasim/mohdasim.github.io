@@ -3189,7 +3189,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 
 .intro {
   background: #F45B69;
-  padding: 100px 0;
 }
 
 .container {
@@ -3199,17 +3198,12 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   text-align: center;
 }
 
-h1 {
-  font-size: 2.5rem;
-}
-
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .timeline ul {
   background: #456990;
-  padding: 50px 0;
 }
 
 .timeline ul li {
