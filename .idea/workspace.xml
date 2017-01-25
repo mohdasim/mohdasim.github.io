@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/base.css" afterPath="$PROJECT_DIR$/static/css/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -54,8 +53,8 @@
       <file leaf-file-name="base.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4390681">
-              <caret line="3319" column="19" selection-start-line="3319" selection-start-column="19" selection-end-line="3319" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.6213922">
+              <caret line="3324" column="23" selection-start-line="3324" selection-start-column="23" selection-end-line="3324" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -632,7 +631,7 @@
       <workItem from="1485245356704" duration="901000" />
       <workItem from="1485246692786" duration="5317000" />
       <workItem from="1485337489215" duration="4942000" />
-      <workItem from="1485342994460" duration="6250000" />
+      <workItem from="1485342994460" duration="6458000" />
     </task>
     <task id="LOCAL-00001" summary="config changes">
       <created>1485245428921</created>
@@ -904,11 +903,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485356052221</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Slide 4">
+      <created>1485356149695</created>
+      <option name="number" value="00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1485356149695</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17410000" />
+    <option name="totallyTimeSpent" value="17618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1109,8 +1114,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4390681">
-          <caret line="3319" column="19" selection-start-line="3319" selection-start-column="19" selection-end-line="3319" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.6213922">
+          <caret line="3324" column="23" selection-start-line="3324" selection-start-column="23" selection-end-line="3324" selection-end-column="23" />
           <folding />
         </state>
       </provider>
