@@ -3249,7 +3249,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent transparent transparent transparent;
+  border-color: transparent rgba(0, 214, 70, 1) transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -3259,7 +3259,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li:nth-child(even) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent transparent;
+  border-color: transparent transparent rgba(0, 214, 70, 1) transparent;
 }
 
 time {
@@ -3329,6 +3329,6 @@ time {
   .timeline ul li:nth-child(even) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent transparent transparent transparent;
+    border-color: transparent rgba(0, 214, 70, 1) transparent transparent;
   }
 }
