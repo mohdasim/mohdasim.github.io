@@ -3209,7 +3209,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li {
   list-style-type: none;
   position: relative;
-  width: 3px;
+  width: 2px;
   margin: 0 auto;
   background: rgba(0, 214, 70, 1);
 }
@@ -3220,8 +3220,8 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   left: 50%;
   bottom: 0;
   transform: translateX(-50%);
-  width: 15px;
-  height: 15px;
+  width: 10px;
+  height: 10px;
   border-radius: 50%;
   background: inherit;
 }
@@ -3249,7 +3249,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent rgba(0, 214, 70, 1) transparent transparent;
+  border-color: transparent transparent transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -3264,8 +3264,8 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 
 time {
   display: block;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-size: 2.2rem;
+  font-weight: 300;
   margin-bottom: 8px;
 }
 
