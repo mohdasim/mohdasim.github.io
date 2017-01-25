@@ -1432,8 +1432,8 @@ section,.slide
 
 @media (min-width: 1024px) {
 section, .slide {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
  }
 }
 /*slide no padding (full card, .embed> youtube video...) */
