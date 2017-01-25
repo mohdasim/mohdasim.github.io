@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/base.css" afterPath="$PROJECT_DIR$/static/css/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -632,13 +631,7 @@
       <workItem from="1485245356704" duration="901000" />
       <workItem from="1485246692786" duration="5317000" />
       <workItem from="1485337489215" duration="4942000" />
-      <workItem from="1485342994460" duration="9384000" />
-    </task>
-    <task id="LOCAL-00003" summary="config changes">
-      <created>1485245645456</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1485245645456</updated>
+      <workItem from="1485342994460" duration="9687000" />
     </task>
     <task id="LOCAL-00004" summary="config changes">
       <created>1485245870313</created>
@@ -928,11 +921,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485358371909</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Slide 4">
+      <created>1485359284237</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1485359284242</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20544000" />
+    <option name="totallyTimeSpent" value="20847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
