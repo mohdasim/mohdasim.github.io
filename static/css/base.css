@@ -3219,7 +3219,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   position: absolute;
   left: 50%;
   bottom: 0;
-  transition: opacity 0.5s ease-in-out;
   width: 15px;
   height: 15px;
   border-radius: 50%;
@@ -3273,9 +3272,9 @@ time {
 /* EFFECTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-/*.timeline ul li::after {
+.timeline ul li::after {
   transition: background 2s ease-in-out;
-}*/
+}
 
 .timeline ul li.in-view::after {
   background: rgba(0, 214, 70, 1);
