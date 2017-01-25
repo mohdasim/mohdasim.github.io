@@ -3317,7 +3317,7 @@ time {
 
 @media screen and (max-width: 600px) {
   .wrap{
-    margin-left: auto !important;
+    margin-left: 0 !important;
   }
   .timeline ul li {
     margin-left: 20px;
