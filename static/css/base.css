@@ -3187,14 +3187,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   box-sizing: border-box;
 }
 
-body {
-  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #456990;
-  color: #fff;
-  overflow-x: hidden;
-}  /* INTRO SECTION
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
 .intro {
   background: #F45B69;
   padding: 100px 0;
