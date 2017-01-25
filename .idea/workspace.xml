@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -34,26 +35,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3392856">
-              <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.65124553">
+              <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
               <folding>
                 <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75551784">
+            <state vertical-scroll-proportion="-15.344828">
               <caret line="3331" column="41" selection-start-line="3331" selection-start-column="41" selection-end-line="3331" selection-end-column="41" />
               <folding />
             </state>
@@ -96,8 +98,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/error.html" />
         <option value="$PROJECT_DIR$/static/css/colors.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/css/base.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -631,13 +633,7 @@
       <workItem from="1485245356704" duration="901000" />
       <workItem from="1485246692786" duration="5317000" />
       <workItem from="1485337489215" duration="4942000" />
-      <workItem from="1485342994460" duration="9687000" />
-    </task>
-    <task id="LOCAL-00004" summary="config changes">
-      <created>1485245870313</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1485245870313</updated>
+      <workItem from="1485342994460" duration="10595000" />
     </task>
     <task id="LOCAL-00005" summary="config changes">
       <created>1485246842021</created>
@@ -927,11 +923,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485359284242</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Slide 4">
+      <created>1485359591025</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1485359591030</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20847000" />
+    <option name="totallyTimeSpent" value="21755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1002,8 +1004,9 @@
           <folding>
             <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -1048,8 +1051,9 @@
           <folding>
             <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -1078,8 +1082,9 @@
           <folding>
             <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -1116,25 +1121,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3392856">
-          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
-          <folding>
-            <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-15.344828">
+          <caret line="3331" column="41" selection-start-line="3331" selection-start-column="41" selection-end-line="3331" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75551784">
-          <caret line="3331" column="41" selection-start-line="3331" selection-start-column="41" selection-end-line="3331" selection-end-column="41" />
-          <folding />
+        <state vertical-scroll-proportion="0.65124553">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+          <folding>
+            <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
