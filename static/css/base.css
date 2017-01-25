@@ -3316,6 +3316,9 @@ time {
 }
 
 @media screen and (max-width: 600px) {
+  .small-font-size{
+    font-size: 15px;
+  }
 
   .timeline ul li {
     margin-left: 20px;
