@@ -56,8 +56,8 @@
       <file leaf-file-name="webslides.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15033785">
-              <caret line="253" column="65" selection-start-line="253" selection-start-column="65" selection-end-line="253" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.15202703">
+              <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -649,13 +649,7 @@
       <workItem from="1485337489215" duration="4942000" />
       <workItem from="1485342994460" duration="13189000" />
       <workItem from="1485375283106" duration="703000" />
-      <workItem from="1485594721195" duration="921000" />
-    </task>
-    <task id="LOCAL-00011" summary="config changes">
-      <created>1485255075798</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1485255075798</updated>
+      <workItem from="1485594721195" duration="1041000" />
     </task>
     <task id="LOCAL-00012" summary="config changes">
       <created>1485255111869</created>
@@ -945,11 +939,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485595386752</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Slide 4">
+      <created>1485595643232</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1485595643232</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25973000" />
+    <option name="totallyTimeSpent" value="26093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1262,8 +1262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15033785">
-          <caret line="253" column="65" selection-start-line="253" selection-start-column="65" selection-end-line="253" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.15202703">
+          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

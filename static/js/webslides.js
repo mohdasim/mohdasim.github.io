@@ -74,11 +74,11 @@ jQuery(document).ready(function($){
         // updates slide state
         var currentURL = document.location.toString();
 
-        if (currentURL.indexOf('/slide') != 1){
-          currentURL = currentURL.substr(0,currentURL.indexOf('/slide'));
+        if (currentURL.indexOf('#') != 1){
+          currentURL = currentURL.substr(0,currentURL.indexOf('#'));
         }
 
-        history.pushState(null, null, '/slide='+ slidePointer.current );
+        history.pushState(null, null, '#slide='+ slidePointer.current );
       };
 
       var hideCurrentSlide = function() {
@@ -251,7 +251,7 @@ jQuery(document).ready(function($){
         last : $slides.length
       };
 
-      var slideState = parseInt(document.location.hash.replace('/slide=', ''));
+      var slideState = parseInt(document.location.hash.replace('#slide=', ''));
 
       if ( slideState && (slideState > 0 && slideState <= $slides.length )) {
         // if slide= hash state is given and valid, go to that slide
