@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amp.html" afterPath="$PROJECT_DIR$/amp.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -57,8 +57,8 @@
       <file leaf-file-name="amp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/amp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9061947">
-              <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.26902655">
+              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -707,13 +707,7 @@
       <workItem from="1485375283106" duration="703000" />
       <workItem from="1485594721195" duration="2821000" />
       <workItem from="1485597691051" duration="1586000" />
-      <workItem from="1485600920627" duration="2609000" />
-    </task>
-    <task id="LOCAL-00020" summary="config changes">
-      <created>1485340862046</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1485340862046</updated>
+      <workItem from="1485600920627" duration="3362000" />
     </task>
     <task id="LOCAL-00021" summary="config changes">
       <created>1485340915787</created>
@@ -1003,11 +997,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485601254446</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Slide 4">
+      <created>1485603530962</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1485603530962</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32068000" />
+    <option name="totallyTimeSpent" value="32821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1488,8 +1488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9061947">
-          <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.26902655">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
