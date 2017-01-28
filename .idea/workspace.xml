@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloamp.html" afterPath="$PROJECT_DIR$/helloamp.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -58,8 +57,8 @@
       <file leaf-file-name="helloamp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4902655">
-              <caret line="3374" column="90" selection-start-line="3368" selection-start-column="4" selection-end-line="3374" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.4778761">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -707,13 +706,7 @@
       <workItem from="1485375283106" duration="703000" />
       <workItem from="1485594721195" duration="2821000" />
       <workItem from="1485597691051" duration="1586000" />
-      <workItem from="1485600920627" duration="4799000" />
-    </task>
-    <task id="LOCAL-00024" summary="config changes">
-      <created>1485341810809</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1485341810809</updated>
+      <workItem from="1485600920627" duration="4848000" />
     </task>
     <task id="LOCAL-00025" summary="config changes">
       <created>1485342068171</created>
@@ -1003,11 +996,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485614460898</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Slide 4">
+      <created>1485615097128</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1485615097128</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34258000" />
+    <option name="totallyTimeSpent" value="34307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1488,8 +1487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helloamp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4902655">
-          <caret line="3374" column="90" selection-start-line="3368" selection-start-column="4" selection-end-line="3374" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.4778761">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
           <folding />
         </state>
       </provider>
