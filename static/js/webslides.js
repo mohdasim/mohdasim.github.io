@@ -78,7 +78,7 @@ jQuery(document).ready(function($){
           currentURL = currentURL.substr(0,currentURL.indexOf('#'));
         }
 
-        history.pushState(null, null, '#slide='+ slidePointer.current );
+        history.pushState(null, null, '/slide='+ slidePointer.current );
       };
 
       var hideCurrentSlide = function() {
