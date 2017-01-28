@@ -251,7 +251,7 @@ jQuery(document).ready(function($){
         last : $slides.length
       };
 
-      var slideState = parseInt(document.location.hash.replace('#slide=', ''));
+      var slideState = parseInt(document.location.hash.replace('/slide=', ''));
 
       if ( slideState && (slideState > 0 && slideState <= $slides.length )) {
         // if slide= hash state is given and valid, go to that slide
