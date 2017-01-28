@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amp.html" afterPath="$PROJECT_DIR$/amp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloamp.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/amp.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -54,14 +55,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amp.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amp.html">
+      <file leaf-file-name="helloamp.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12743363">
-              <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-0.72035396">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -707,13 +706,7 @@
       <workItem from="1485375283106" duration="703000" />
       <workItem from="1485594721195" duration="2821000" />
       <workItem from="1485597691051" duration="1586000" />
-      <workItem from="1485600920627" duration="3494000" />
-    </task>
-    <task id="LOCAL-00022" summary="config changes">
-      <created>1485340995245</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1485340995245</updated>
+      <workItem from="1485600920627" duration="4164000" />
     </task>
     <task id="LOCAL-00023" summary="config changes">
       <created>1485341307538</created>
@@ -1003,15 +996,21 @@
       <option name="project" value="LOCAL" />
       <updated>1485613659182</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Slide 4">
+      <created>1485613790953</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1485613790953</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32953000" />
+    <option name="totallyTimeSpent" value="33623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1025,7 +1024,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24863175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24863175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1486,13 +1485,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amp.html">
+    <entry file="file://$PROJECT_DIR$/helloamp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12743363">
-          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.72035396">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
