@@ -74,8 +74,8 @@ jQuery(document).ready(function($){
         // updates slide state
         var currentURL = document.location.toString();
 
-        if (currentURL.indexOf('#') != 1){
-          currentURL = currentURL.substr(0,currentURL.indexOf('#'));
+        if (currentURL.indexOf('/slide') != 1){
+          currentURL = currentURL.substr(0,currentURL.indexOf('/slide'));
         }
 
         history.pushState(null, null, '/slide='+ slidePointer.current );
