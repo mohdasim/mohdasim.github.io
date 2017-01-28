@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ccb2f95-7d9d-45d1-bc3b-efce6c7d46f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/webslides.js" afterPath="$PROJECT_DIR$/static/js/webslides.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mohdasim.github.io.iws" />
@@ -56,8 +55,8 @@
       <file leaf-file-name="webslides.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15202703">
-              <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.7297297">
+              <caret line="78" column="9" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -649,13 +648,7 @@
       <workItem from="1485337489215" duration="4942000" />
       <workItem from="1485342994460" duration="13189000" />
       <workItem from="1485375283106" duration="703000" />
-      <workItem from="1485594721195" duration="1041000" />
-    </task>
-    <task id="LOCAL-00012" summary="config changes">
-      <created>1485255111869</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1485255111869</updated>
+      <workItem from="1485594721195" duration="1525000" />
     </task>
     <task id="LOCAL-00013" summary="config changes">
       <created>1485255360055</created>
@@ -945,11 +938,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485595643232</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Slide 4">
+      <created>1485595763053</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1485595763057</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26093000" />
+    <option name="totallyTimeSpent" value="26577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1262,8 +1261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15202703">
-          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.7297297">
+          <caret line="78" column="9" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
