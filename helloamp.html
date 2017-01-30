@@ -1,77 +1,85 @@
-<!--
-  #### Introduction
-
-  Embed iframes into AMP files. Useful for displaying content otherwise not (yet) supported by AMP.
--->
-<!-- -->
 <!doctype html>
-<html ⚡>
-<head>
+<html lang="en" prefix="og: http://ogp.me/ns#" itemscope ⚡>
+  <head>
     <meta charset="utf-8">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <!--  Import the amp-iframe component in the header. -->
-    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-    <link rel="canonical" href="<%host%>/components/amp-iframe/">
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-</head>
-<body>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org/",
+          "@type": "Person",
+          "name": "Mohd Asim Suhail",
+          "jobTitle": "Software Developer",
+          "telephone": "(+91) 9902076558",
+          "url": "https://mohdasim.in"
+        }
+    </script>
+      <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <!-- SEO -->
+    <title>Mohd Asim Suhail |  Mobile and Web Application developer | Linux Administrator</title>
+    <meta name="description" itemprop="An Experience of 2.5 years in structuring, developing and implementing interactive applications with all stages of the development cycle for dynamic Web and Mobile platform projects. Analytical, adaptive and technically proficient."
+          content="An Experience of 2.5 years in structuring, developing and implementing interactive applications with all stages of the development cycle for dynamic Web and Mobile platform projects. Analytical, adaptive and technically proficient.">
+    <meta name="keywords" content="Mohd Asim Suhail, Web and mobile, application developer,linux administrator,mohd.asim.mnnit@gmail.com,contact@mohdasim.in">
+    <!-- URL CANONICAL -->
+     <link rel="canonical" href="https://mohdasim.in">
 
-<!--
-  Iframes must be either 600px away from the top or not within the first 75% of the viewport when
-  scrolled to the top – whichever is smaller. This example might not work depending on your screen
-  width. In that case it will only show a loading indicator.
--->
-<amp-iframe width="500" height="281"
-            layout="responsive"
-            sandbox="allow-scripts allow-same-origin allow-popups"
-            allowfullscreen
-            frameborder="0"
-            src="https://player.vimeo.com/video/140261016">
-</amp-iframe>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 
-<!-- #### Using Placeholders -->
-<!-- The 600px away from the top constraint can be avoided by adding a placeholder image. -->
-<amp-iframe width="500" height="281"
-            layout="responsive"
-            sandbox="allow-scripts allow-same-origin allow-popups"
-            allowfullscreen
-            frameborder="0"
-            src="https://player.vimeo.com/video/140261016">
-    <amp-img layout="fill" src="https://i.vimeocdn.com/video/536538454_640.webp" placeholder></amp-img>
-</amp-iframe>
+    <!-- CSS Base -->
+   <!-- <link rel="stylesheet" type='text/css' media='all' href="static/css/base.css">
 
-<!-- #### Vimeo -->
-<!-- -->
-<!-- If the video is 600px below the top, no placeholder image is required. -->
-<amp-iframe width="500" height="281"
-            layout="responsive"
-            sandbox="allow-scripts allow-same-origin allow-popups"
-            allowfullscreen
-            frameborder="0"
-            src="https://player.vimeo.com/video/140261016">
-</amp-iframe>
+    &lt;!&ndash; CSS Colors &ndash;&gt;
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/colors.css">
 
-<!-- #### Giphy -->
-<!-- Here is another iframe sample embedding an animated GIF from [Giphy](https://giphy.com). -->
-<amp-iframe width="600" height="400"
-            layout="responsive"
-            sandbox="allow-scripts allow-same-origin allow-popups"
-            frameborder="0"
-            src="https://giphy.com/embed/DKG1OhBUmxL4Q">
-</amp-iframe>
+    &lt;!&ndash; Optional - CSS SVG Icons (Font Awesome) &ndash;&gt;
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/svg-icons.css">-->
 
-<!-- #### Google Maps -->
-<!--
-  Embedding Google Maps is possible via the [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/guide) and requires
-  an [API Key](https://developers.google.com/maps/documentation/embed/guide#api_key).
--->
-<amp-iframe width="600" height="400"
-            layout="responsive"
-            sandbox="allow-scripts allow-same-origin allow-popups"
-            frameborder="0"
-            src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ2eUgeAK6j4ARbn5u_wAGqWA&key=AIzaSyCNCZ0Twm_HFRaZ5i-FuPDYs3rLwm4_848">
-</amp-iframe>
+    <!-- SOCIAL CARDS (ADD YOUR INFO) -->
 
-</body>
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="https://mohdasim.in"> <!-- YOUR URL -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Mohd Asim Suhail | Mobile and Web Developer | Linux Administrator"> <!-- EDIT -->
+    <meta property="og:description" content="An Experience of 2.5 years in structuring, developing and implementing interactive applications with all stages of the development cycle for dynamic Web and Mobile platform projects. Analytical, adaptive and technically proficient."> <!-- EDIT -->
+    <meta property="og:image" content="static/images/backdrop.jpg"> <!-- EDIT -->
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@AsimMnnit"> <!-- EDIT -->
+    <meta name="twitter:creator" content="@AsimMnnit"> <!-- EDIT -->
+    <meta name="twitter:title" content="Mohd Asim Suhail | Mobile and Web Developer | Linux Administrator"> <!-- EDIT -->
+    <meta name="twitter:description" content="An Experience of 2.5 years in structuring, developing and implementing interactive applications with all stages of the development cycle for dynamic Web and Mobile platform projects. Analytical, adaptive and technically proficient."> <!-- EDIT -->
+    <meta name="twitter:image" content="static/images/backdrop.jpg"> <!-- EDIT -->
+
+    <!-- FAVICONS -->
+    <link rel="shortcut icon" sizes="16x16" href="static/images/favicons/favicon.png">
+    <link rel="shortcut icon" sizes="32x32" href="static/images/favicons/favicon-32.png">
+    <link rel="apple-touch-icon icon" sizes="76x76" href="static/images/favicons/favicon-76.png">
+    <link rel="apple-touch-icon icon" sizes="120x120" href="static/images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon icon" sizes="152x152" href="static/images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon icon" sizes="180x180" href="static/images/favicons/favicon-180.png">
+    <link rel="apple-touch-icon icon" sizes="192x192" href="static/images/favicons/favicon-192.png">
+
+      <!-- Android -->
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="theme-color" content="#333333">
+
+      <script async src="https://cdn.ampproject.org/v0.js"></script>
+      <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+
+  </head>
+  <body>
+    <!-- end main -->
+
+  <h1>Welcome to AMP</h1>
+    <amp-iframe width="100px"
+                height="50px"
+                layout="responsive"
+                sandbox="allow-scripts allow-same-origin allow-popups"
+                allowfullscreen
+                frameborder="0"
+                src="https://gbgbangalore.org/about-us.html">
+    </amp-iframe>
+    <!-- jQuery (required for slides to work) -->
+  </body>
 </html>
