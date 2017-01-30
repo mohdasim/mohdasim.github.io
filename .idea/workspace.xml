@@ -38,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.31578946">
-              <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -57,8 +57,8 @@
       <file leaf-file-name="helloamp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4778761">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.69849247">
+              <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -96,16 +96,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3317" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="3336" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -201,7 +191,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -252,28 +241,11 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mohdasim.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mohdasim.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +254,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="color&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/colors.css&#10;colo&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/colors.css&#10;base&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/base.css" />
+    <property name="SearchEverywhereHistoryKey" value="bas&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/base.css&#10;color&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/colors.css&#10;colo&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/colors.css&#10;base&#9;FILE&#9;file:///home/asim/Downloads/jekyll/mohdasim-in/mohdasim.github.io/static/css/base.css" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -706,13 +678,9 @@
       <workItem from="1485375283106" duration="703000" />
       <workItem from="1485594721195" duration="2821000" />
       <workItem from="1485597691051" duration="1586000" />
-      <workItem from="1485600920627" duration="4848000" />
-    </task>
-    <task id="LOCAL-00025" summary="config changes">
-      <created>1485342068171</created>
-      <option name="number" value="00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1485342068171</updated>
+      <workItem from="1485600920627" duration="7039000" />
+      <workItem from="1485767592492" duration="6000" />
+      <workItem from="1485772918778" duration="41000" />
     </task>
     <task id="LOCAL-00026" summary="Slide 4">
       <created>1485343206612</created>
@@ -1002,11 +970,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485615097128</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Slide 4">
+      <created>1485615146365</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1485615146365</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34307000" />
+    <option name="totallyTimeSpent" value="36545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1014,13 +988,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1030,12 +1002,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1062,29 +1036,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/images/slide4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/images/slide3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta-ext.rnc">
@@ -1102,14 +1061,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3317" column="38" selection-start-line="3317" selection-start-column="0" selection-end-line="3317" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,7 +1127,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3317" column="38" selection-start-line="3317" selection-start-column="0" selection-end-line="3317" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/colors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="942" column="0" selection-start-line="942" selection-start-column="0" selection-end-line="942" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta-ext.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3317" column="38" selection-start-line="3317" selection-start-column="0" selection-end-line="3317" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1225,7 +1241,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3318" column="19" selection-start-line="3318" selection-start-column="19" selection-end-line="3318" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1323,7 +1337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3331" column="49" selection-start-line="3331" selection-start-column="49" selection-end-line="3331" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1432,38 +1445,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta-ext.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.31578946">
-          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1479,16 +1465,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4758842">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/webslides.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3317" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="3336" selection-end-column="1" />
-          <folding />
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helloamp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4778761">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="34" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.69849247">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
           <folding />
         </state>
       </provider>
