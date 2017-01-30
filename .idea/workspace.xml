@@ -57,8 +57,8 @@
       <file leaf-file-name="helloamp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45378152">
-              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.84705883">
+              <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -680,13 +680,7 @@
       <workItem from="1485597691051" duration="1586000" />
       <workItem from="1485600920627" duration="7039000" />
       <workItem from="1485767592492" duration="6000" />
-      <workItem from="1485772918778" duration="201000" />
-    </task>
-    <task id="LOCAL-00027" summary="Slide 4">
-      <created>1485344357933</created>
-      <option name="number" value="00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1485344357933</updated>
+      <workItem from="1485772918778" duration="232000" />
     </task>
     <task id="LOCAL-00028" summary="Slide 4">
       <created>1485344484312</created>
@@ -976,11 +970,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485772960923</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Slide 4">
+      <created>1485773120058</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1485773120058</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36705000" />
+    <option name="totallyTimeSpent" value="36736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1321" height="744" extended-state="6" />
@@ -1499,8 +1499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helloamp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45378152">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.84705883">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
           <folding />
         </state>
       </provider>
